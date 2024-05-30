@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "kafka",
+      "type": "com.heima.article.config.KafkaStreamConfig",
+      "sourceType": "com.heima.article.config.KafkaStreamConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "kafka.group",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.article.config.KafkaStreamConfig"
+    },
+    {
+      "name": "kafka.hosts",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.article.config.KafkaStreamConfig"
+    }
+  ],
+  "hints": []
+}
